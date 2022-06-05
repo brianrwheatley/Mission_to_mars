@@ -28,6 +28,7 @@ def scrape_all():
     return data
 
 
+
 def mars_news(browser):
 
     # Scrape Mars News
